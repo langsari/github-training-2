@@ -1,2 +1,2 @@
 # github-training-2
-the project about github
+## the project about github
